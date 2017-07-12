@@ -27,11 +27,12 @@ namespace JiraApp_Test
 
             string base64Credentials = Program.GetEncodedCredentials(username, password);
 
-            var client = new RestClient("https://jira.rsi.lexisnexis.com/rest/issueNav/1/issueTable");
+            var client = new RestClient("https://************.com/rest/issueNav/1/issueTable");
             var request = new RestRequest(Method.POST);
 
             string encodedstring = HttpUtility.UrlEncode(jql);
             encodedstring = "startIndex=0&jql=" + encodedstring + "&layoutKey=split-view";
+
 
             var body = encodedstring;
 
