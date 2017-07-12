@@ -1,0 +1,10 @@
+c:\users\ahmesa02\documents\visual studio 2015\Projects\JiraApp_Test\JiraApp_Test\bin\Debug\JiraApp_Test.exe.config
+c:\users\ahmesa02\documents\visual studio 2015\Projects\JiraApp_Test\JiraApp_Test\bin\Debug\JiraApp_Test.exe
+c:\users\ahmesa02\documents\visual studio 2015\Projects\JiraApp_Test\JiraApp_Test\bin\Debug\JiraApp_Test.pdb
+c:\users\ahmesa02\documents\visual studio 2015\Projects\JiraApp_Test\JiraApp_Test\bin\Debug\Newtonsoft.Json.dll
+c:\users\ahmesa02\documents\visual studio 2015\Projects\JiraApp_Test\JiraApp_Test\bin\Debug\RestSharp.dll
+c:\users\ahmesa02\documents\visual studio 2015\Projects\JiraApp_Test\JiraApp_Test\bin\Debug\Newtonsoft.Json.xml
+c:\users\ahmesa02\documents\visual studio 2015\Projects\JiraApp_Test\JiraApp_Test\bin\Debug\RestSharp.xml
+c:\users\ahmesa02\documents\visual studio 2015\Projects\JiraApp_Test\JiraApp_Test\obj\Debug\JiraApp_Test.csprojResolveAssemblyReference.cache
+c:\users\ahmesa02\documents\visual studio 2015\Projects\JiraApp_Test\JiraApp_Test\obj\Debug\JiraApp_Test.exe
+c:\users\ahmesa02\documents\visual studio 2015\Projects\JiraApp_Test\JiraApp_Test\obj\Debug\JiraApp_Test.pdb
